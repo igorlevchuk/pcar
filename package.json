@@ -1,0 +1,24 @@
+{
+  "name": "pcar",
+  "version": "1.0.0",
+  "description": "pcar",
+  "main": "server.js",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alevchuk93/pcar.git"
+  },
+  "author": "alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alevchuk93/pcar/issues"
+  },
+  "homepage": "https://github.com/alevchuk93/pcar#readme"
+}
